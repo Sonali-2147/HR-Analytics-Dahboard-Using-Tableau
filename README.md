@@ -15,3 +15,6 @@
 https://lnkd.in/gSMDVnAW
 
 (Desktop Site Mode)
+
+![HR ANALYTICS DASHBOARD PIC](https://github.com/Sonali-2147/HR-Analytics-Dahboard-Using-Tableau/assets/120173884/bc3ad1da-bf3d-4981-8316-c68b18cc9fff)
+
